@@ -10,5 +10,7 @@ public class Main {
         arr1.printArr();
         arr1.push(5);
         arr1.printArr();
+        arr1.pushHead(0);
+        arr1.printArr();
     }
 }
