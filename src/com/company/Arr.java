@@ -23,6 +23,7 @@ public class Arr {
         this.length++;
     }
 
+
     public void pushHead(int value) {
         int[] arr1 = new int[length + 1];
         for (int i = 1; i < this.length ; i++){
